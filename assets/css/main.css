@@ -2160,7 +2160,7 @@
 		-webkit-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
 		transition: all 0.2s ease-in-out;
-		background-color: darkslategray;
+		background-color:sandybrown;
 		border: 0;
 		border-radius: 3.5em;
 		color: #fff;
@@ -2379,7 +2379,7 @@
 			}	
 
 			.main.style3.secondary {
-				background: darkslategray;
+				background: 	sandybrown;
 			}
 
 
@@ -2928,6 +2928,16 @@
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
+
+
+/*Four*/	
+	#four {
+		background: url("images/overlay.png"), url("../../images/four.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
 /* Work */
 
 	#work .row.images .image {
